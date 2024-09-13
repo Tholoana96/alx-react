@@ -5,3 +5,4 @@ function getImmutableObject(object) {
 }
 
 module.exports = getImmutableObject;
+
